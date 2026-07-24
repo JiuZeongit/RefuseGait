@@ -1,0 +1,34 @@
+# Runtime outputs
+output/
+logs/
+checkpoints/
+
+# External data and model links
+db
+pretrained
+final_checkpoints
+final_retest_logs
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.log
+data/
+# Result artifacts generated during runtime
+results/*.log
+results/*.tmp

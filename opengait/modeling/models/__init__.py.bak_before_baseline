@@ -1,0 +1,9 @@
+"""ReFuseGait model registry."""
+
+from .dual_reliability import (
+    ReFuseGait,
+)
+
+__all__ = [
+    "ReFuseGait",
+]
