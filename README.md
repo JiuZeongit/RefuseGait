@@ -372,13 +372,6 @@ grep -E 'Rank-1|NM@R1|BG@R1|CL@R1|PT@R1|Traceback|Error' \
   logs/test_checkpoint.log | tail -30
 ```
 
-The archived DAVIS346-Gait Day checkpoint at iteration 19,000 reproduced the following Rank-1 results:
-
-```text
-NM 97.75%   BG 94.83%   CL 93.33%   PT 95.17%
-```
-
-A newly trained checkpoint is not expected to reproduce these values exactly.
 
 ## 8. Experimental Protocols
 
