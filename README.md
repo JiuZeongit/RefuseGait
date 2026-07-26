@@ -21,7 +21,6 @@ train.sh                          Distributed training launcher
 test.sh                           Distributed evaluation launcher
 ```
 
-Datasets, pretrained models, outputs, and experiment checkpoints are not stored in the repository.
 
 ## 2. Requirements
 
