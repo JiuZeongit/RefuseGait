@@ -410,7 +410,6 @@ datasets/HNU-Gait/HNU-Gait.json
 - The reported metrics are overall Top-1 accuracy, mean 11-view Top-1 accuracy, and overall Top-5 accuracy.
 - The ReFuseGait experiment uses synchronized bbox, Event, and Gray inputs.
 
-The configuration and partition files for DAVIS346-Gait-RGE and EV-CASIA-B are not distributed in this repository.
 
 ## Acknowledgements
 
